@@ -1,2 +1,2 @@
 # elementpy
-Simple three pages website coded alongside Brad Travesty Media tutorial
+Simple three pages web hosting dummy website
