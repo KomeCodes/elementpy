@@ -1,2 +1,2 @@
 # elementpy
-Simple three pages web hosting dummy website
+Simple three-pages web hosting dummy site
